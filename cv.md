@@ -24,6 +24,7 @@ My goal is to learn everything new and exciting.
 * JavaScript
 * Version control: Git
 * Windows OS, Linux(Ubuntu)
+* Figma
 
 ## Code examples
 
